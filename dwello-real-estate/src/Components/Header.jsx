@@ -14,7 +14,7 @@ return (
             <a href='#' className='pl-15 font-bold text-[18px]'>Agents</a>
             <a href='#' className='pl-15 font-bold text-[18px]'>Contact</a>
 
-            <div className='pl-30'><a href="#"><img src={search} alt="search" /></a></div>
+            <diiv className='pl-30'><a href="#"><img src={search} alt="search" /></a></diiv>
             <div className='pl-7 pr-10'><a href="#"><img src={user} alt="user" /></a></div>
         </div>
 
