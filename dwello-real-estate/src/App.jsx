@@ -4,6 +4,7 @@ import HeroSection from './Components/HeroSection'
 import HeroSearchSection from './Components/HeroSearchSection'
 import AboutUsSection from './Components/AboutUsSection'
 import WhyChooseUs from './Components/WhyChooseUs'
+import PopularResidencesSection from './Components/PopularResidencesSection'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <HeroSearchSection />
       <AboutUsSection />
       <WhyChooseUs />
+      <PopularResidencesSection />
     </div>
   )
 }
