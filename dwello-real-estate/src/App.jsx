@@ -6,6 +6,7 @@ import AboutUsSection from './Components/AboutUsSection'
 import WhyChooseUs from './Components/WhyChooseUs'
 import PopularResidencesSection from './Components/PopularResidencesSection'
 import TestimonialsSection from './Components/TestimonialsSection'
+import GetHelpSection from './Components/GetHelpSection'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <WhyChooseUs />
       <PopularResidencesSection />
       <TestimonialsSection />
+      <GetHelpSection />
     </div>
   )
 }
