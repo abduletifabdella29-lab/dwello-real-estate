@@ -7,6 +7,7 @@ import WhyChooseUs from './Components/WhyChooseUs'
 import PopularResidencesSection from './Components/PopularResidencesSection'
 import TestimonialsSection from './Components/TestimonialsSection'
 import GetHelpSection from './Components/GetHelpSection'
+import Footer from './Components/Footer'
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <PopularResidencesSection />
       <TestimonialsSection />
       <GetHelpSection />
+      <Footer />
     </div>
   )
 }
