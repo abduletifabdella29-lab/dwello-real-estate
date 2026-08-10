@@ -67,12 +67,12 @@ function Header() {
                     <div className='flex items-center gap-5 mr-3'>
                         <a
                             href="#"
-                            className='p-1'>
+                            className='p-1 rounded-lg hover:bg-[#3B2418]/10 transition-all duration-300'>
                             <img src={search} alt="search" />
                         </a>
                         <a
                             href="#"
-                            className='p-1'>
+                            className='p-1 rounded-lg hover:bg-[#3B2418]/10 transition-all duration-300'>
                             <img src={user} alt="user" />
                         </a>
                         <button
