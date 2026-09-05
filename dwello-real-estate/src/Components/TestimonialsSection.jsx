@@ -17,7 +17,7 @@ return (
             <h1 className='w-113 py-8 text-center font-extrabold text-[40px] text-[#2B1B12] mx-auto'>What People Say <br />About Dwello</h1>
         </div>
 
-        <div className='pt-6 px-25 gap-7 flex'>
+        <div className='pt-13 pb-25 px-4 sm:px-6 md:px-8 xl:px-26 grid grid-cols-1 justify-items-center gap-14 md:grid-cols-2 md:gap-16 lg:grid-cols-3 lg:gap-12 xl:flex xl:justify-center xl:gap-11'>
             <div className='bg-[#DDC7BB] w-95 h-95  rounded-2xl overflow-hidden '>
                 <img className='w-95 h-35' src={review1} />
                 <div className='ml-6 mt-6'>
