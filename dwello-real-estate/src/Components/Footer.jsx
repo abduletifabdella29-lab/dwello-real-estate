@@ -75,7 +75,7 @@ function Footer() {
             </div>
 
             <div>
-                <a href="https://github.com/abduletifabdella29-lab" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/abduletifabdella29-lab" target="_blank">
                     <h1 className='text-center font-bold pt-16 lg:pt-27 text-2xl text-[#4F3527] px-4 whitespace-nowrap'>
                         Bulit By Abduletif Abdella
                     </h1>
